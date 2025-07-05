@@ -1,72 +1,96 @@
-Hi there! 👋 I'm Mor Levi  
-==========================
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Mor Levi</h1>
+<h3 align="center">👨‍💻 Full Stack Developer | 🇮🇱 Israeli Air Force | TypeScript Enthusiast</h3>
 
-👨‍💻 Full Stack Developer | Israeli Air Force  
----------------------------------------------------------
-
-Software Developer with 2+ years of experience building secure and efficient web systems in the Israeli Air Force. Skilled in React, TypeScript, and Node.js, with strong foundations in backend and database design. Passionate about problem-solving, clean architecture, and intuitive UX. Always learning and pushing boundaries to build high-impact applications.
-
-* 🌍  Based in Gadera, Israel  
-* 📫  Reach me at [morlevimail@gmail.com](mailto:morlevimail@gmail.com)  
-* 🧠  Currently learning advanced NestJS, PostgreSQL, and DevOps tools  
-* 🤝  Open to collaborations on full stack and open-source projects  
-* ⚡  I thrive in high-pressure environments, love structured thinking, and enjoy UI/UX design in Figma
-
----
-
-### 🚀 Skills
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=450&lines=Passionate+about+scalable+code;React+%26+NestJS+Lover;Clean+architecture+fan;Always+learning+new+techs!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Socials
+### 📌 About Me
+
+- 🔭 Full Stack Developer with 2+ years of hands-on experience in the Israeli Air Force  
+- 🎓 B.Sc. in Computer Science from Ashkelon Academic College (GPA: 87)  
+- ⚙️ Building scalable web apps using React, TypeScript, NestJS, and PostgreSQL  
+- 🤝 I love clean code, intuitive design, and solving real-world problems  
+- 🌱 Currently learning more about DevOps, Docker, and CI/CD
+
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mongodb,express,docker,git,figma,tailwind,prisma,aws,vite" />
+</p>
+
+---
+
+### 🧑‍💻 Featured Projects
+
+#### 🛍️ **E-commerce Platform**
+> Full stack project for product browsing, cart, and admin dashboard with auth  
+> Built with: React, TypeScript, Tailwind, NestJS, PostgreSQL  
+🔗 [Live Demo](https://my-portfolio-3a6v.vercel.app/) | [Source Code](https://github.com/morlevi836)
+
+---
+
+#### 🗂️ **Task Management System (IAF Internal Project)**
+> Secure full-stack system with user roles, request tracking, and real-time updates  
+> Built with: React TypeScript, NestJS, PostgreSQL  
+🔒 *Private Code (Classified)*
+
+---
+
+### 💼 Experience
+
+- 🛰️ **Full Stack Developer – Israeli Air Force** (2023–Present)  
+  - Led development of internal system improving task flow & delivery
+  - Mentored junior devs, improved system structure & performance
+
+- 🎓 **B.Sc. in Computer Science – Ashkelon College** (2020–2023)  
+  - GPA: 87, focused on full stack systems, algorithms, and software architecture
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morlevi836&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morlevi836&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morlevi836&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 🧠 2024 Goals
+
+- ✅ Deepen backend expertise with Redis, caching & microservices  
+- ✅ Learn GitHub Actions for CI/CD pipelines  
+- ✅ Contribute to an open-source TypeScript library  
+- ✅ Design beautiful UIs with shadcn/ui and Figma
+
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/morlevi836" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" />
   </a>
-  <a href="https://linkedin.com/in/mor-levi-73a364247/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  <a href="https://linkedin.com/in/mor-levi-73a364247" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" />
   </a>
-  <a href="https://my-portfolio-3a6v.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" width="32" height="32" />
+  <a href="https://my-portfolio-3a6v.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=vercel" />
+  </a>
+  <a href="mailto:morlevimail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-green?style=flat&logo=gmail" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<!-- Quote -->
+> *“Code is not just syntax — it’s a conversation with the future.”*
 
-<a href="https://github.com/morlevi836">
-  <img src="https://github-readme-stats.vercel.app/api?username=morlevi836&show_icons=true&count_private=true&theme=radical" alt="Mor Levi's GitHub stats" />
-</a>
-
-<a href="https://github.com/morlevi836">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morlevi836&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/morlevi836">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morlevi836&layout=compact&theme=radical" />
-</a>
-
----
-
-### ✨ Activity Graph
-
-<a href="https://github.com/morlevi836">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morlevi836&theme=react-dark" alt="GitHub Activity Graph" />
-</a>
