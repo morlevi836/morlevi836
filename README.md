@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Mor Levi</h1>
-<h3 align="center">Full Stack Developer | 🇮🇱 Israeli Air Force | TypeScript & NestJS Enthusiast</h3>
+<h3 align="center">Crafting code by day, dreaming of tech by night 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FACC15&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%7C+React+%2B+NestJS;Clean+architecture+fanatic;Always+learning+new+techs+🚀;Pixel+perfect+frontend+%2B+robust+backend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FACC15&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer+%7C+React+%2B+NestJS;Clean+architecture+fanatic;Always+learning+new+techs+🚀;Pixel+perfect+frontend+%2B+robust+backend;Team+player+and+collaborator;Passionate+about+DevOps+%26+CI%2FCD" alt="Typing SVG" />
 </p>
 
 ---
