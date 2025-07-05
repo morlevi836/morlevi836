@@ -80,5 +80,4 @@
 
 ### 💬 Quote I Live By
 
-> _“Simplicity is the soul of efficiency.”_ — Austin Freeman  
-> (And a good principle for both life and clean code.)
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House, React and JavaScript specialist  
