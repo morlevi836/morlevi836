@@ -1,93 +1,60 @@
 <h1 align="center">Hey there! 👋 I'm Mor Levi</h1>
-<h3 align="center">Full Stack Developer | 🇮🇱 Israeli Air Force | TypeScript, React & NestJS Enthusiast</h3>
+<h3 align="center">Full Stack Developer | 🇮🇱 Israeli Air Force | TypeScript & NestJS Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F59E0B&center=true&width=600&lines=Passionate+about+scalable+code;React+%26+NestJS+Lover;Clean+architecture+fanatic;Frontend+Pixel+Perfect+Crafter;Backend+API+Architect;Problem+Solver+🧠;Always+learning+new+techs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FACC15&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%7C+React+%2B+NestJS;Clean+architecture+fanatic;Always+learning+new+techs+🚀;Pixel+perfect+frontend+%2B+robust+backend" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 Full Stack Developer with 2+ years of experience in the **Israeli Air Force**
-- 🎓 B.Sc. in Computer Science from **Ashkelon Academic College**, GPA: 87
-- 🚀 Passionate about full stack development using **React**, **TypeScript**, **NestJS**, **PostgreSQL**
-- 🧠 Lifelong learner exploring DevOps, clean architecture, and scalable design systems
-- 🛠️ Love building intuitive interfaces + high-performance APIs
-- 💬 I enjoy mentoring, team collaboration, and refactoring code with pride
+- 🛰️ Full Stack Developer in the Israeli Air Force  
+- 🎓 B.Sc. in Computer Science — Ashkelon Academic College (GPA: 87)  
+- 🛠️ Strong in React, TypeScript, NestJS, PostgreSQL, and scalable backend design  
+- 👥 Enjoy team collaboration, clean architecture, and UI/UX optimization  
+- 🔄 Currently learning advanced DevOps, CI/CD, and automated testing
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🛠 Tech Stack
 
-#### 💻 **Languages & Frameworks**
+#### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,html,css" />
 </p>
 
-#### ⚛️ **Frontend**
+#### ⚛️ Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,mui,figma" />
 </p>
 
-#### 🔥 **Backend & DevOps**
+#### 🧩 Backend & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,docker,git,github,vercel" />
 </p>
 
-#### 🛢️ **Databases & ORMs**
+#### 🗃️ Databases & ORMs
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-
-#### 🛍️ **E-commerce Platform**
-> A modern full stack project for product browsing, cart, and admin dashboard  
-> 🧰 React, TypeScript, Tailwind, NestJS, PostgreSQL  
-🔗 [Live Demo](https://my-portfolio-3a6v.vercel.app/) | [GitHub](https://github.com/morlevi836)
-
----
-
-#### 🗂️ **Internal Task Manager (Classified - IAF)**
-> Secure full-stack app for handling mission requests & task workflows  
-> 🔐 *Code is private due to military classification*  
-🧰 React, NestJS, PostgreSQL, Agile methodology
-
----
-
-### 💼 Work Experience
-
-- 🛰️ **Israeli Air Force** — *Full Stack Developer* (2023–Present)  
-- 🎓 **Ashkelon Academic College** — *B.Sc. in CS* (2020–2023)
-
----
-
-### 🎯 2024 Goals
-
-- 📦 Master microservices with NestJS & Docker  
-- 🔐 Implement OAuth + role-based access  
-- 🧪 Learn automated testing (Jest, SuperTest, React Testing Library)  
-- 🧬 Contribute to open source and refine architecture principles
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morlevi836&show_icons=true&theme=radical" alt="Mor Levi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=morlevi836&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morlevi836&theme=radical&hide_border=true" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morlevi836&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 Contribution Activity Graph
+### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morlevi836&theme=github-compact" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morlevi836&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -113,5 +80,5 @@
 
 ### 💬 Quote I Live By
 
-> _"Code is not just about syntax. It’s a language you write for humans to maintain."_  
-> — Mor Levi
+> _“Simplicity is the soul of efficiency.”_ — Austin Freeman  
+> (And a good principle for both life and clean code.)
