@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🛰️ Full Stack Developer in the Israeli Air Force  
-- 🎓 B.Sc. in Computer Science — Ashkelon Academic College  
+- 🎓 B.Sc. in Computer Science - Ashkelon Academic College  
 - 🛠️ Strong in React, TypeScript, NestJS, PostgreSQL, and scalable backend design  
 - 👥 Enjoy team collaboration, clean architecture, and UI/UX optimization  
 - 🔄 Currently learning advanced DevOps, CI/CD, and automated testing
